@@ -1,0 +1,114 @@
+{
+  "chemicals": [
+    {
+      "id": 1,
+      "name": "Paracetamol",
+      "image": "paracetamol.jpg",
+      "molecularFormula": "C8H9NO2",
+      "iupacname": "N-(4-hydroxyphenyl)acetamide",
+      "about": "Paracetamol is a common pain reliever and fever reducer.",
+      "mechanism": "Paracetamol works by inhibiting the synthesis of prostaglandins, which help to transmit pain and induce fever.",
+      "uses": "Used to treat mild to moderate pain and reduce fever.",
+      "effects": "Overdose can cause severe liver damage."
+    },
+    {
+      "id": 2,
+      "name": "Ibuprofen",
+      "image": "ibuprofen.jpg",
+      "molecularFormula": "C13H18O2",
+      "iupacname": "2-(4-isobutylphenyl)propanoic acid",
+      "about": "Ibuprofen is a nonsteroidal anti-inflammatory drug (NSAID) used for pain relief.",
+      "mechanism": "It reduces hormones that cause inflammation and pain in the body.",
+      "uses": "Used to reduce fever and treat pain or inflammation.",
+      "effects": "Can cause stomach ulcers and kidney issues with prolonged use."
+    },
+    {
+      "id": 3,
+      "name": "Aspirin",
+      "image": "aspirin.jpg",
+      "molecularFormula": "C9H8O4",
+      "iupacname": "Acetylsalicylic acid",
+      "about": "Aspirin is a salicylate drug used to reduce pain, fever, or inflammation.",
+      "mechanism": "It works by inhibiting the enzyme cyclooxygenase, which produces prostaglandins.",
+      "uses": "Used to treat pain, reduce fever, and as a blood thinner.",
+      "effects": "May cause gastrointestinal bleeding and ulcers."
+    },
+    {
+      "id": 4,
+      "name": "Amoxicillin",
+      "image": "amoxicillin.jpg",
+      "molecularFormula": "C16H19N3O5S",
+      "iupacname": "Amoxicillin",
+      "about": "Amoxicillin is a penicillin antibiotic used to treat bacterial infections.",
+      "mechanism": "It works by inhibiting the synthesis of bacterial cell walls.",
+      "uses": "Used to treat infections like pneumonia, bronchitis, and infections of the ear, nose, throat, skin, or urinary tract.",
+      "effects": "May cause allergic reactions, including rash, itching, and anaphylaxis."
+    },
+    {
+      "id": 5,
+      "name": "Loratadine",
+      "image": "loratadine.jpg",
+      "molecularFormula": "C22H23ClN2O2",
+      "iupacname": "Loratadine",
+      "about": "Loratadine is an antihistamine used to relieve allergy symptoms.",
+      "mechanism": "It works by blocking histamine, a substance in the body that causes allergic symptoms.",
+      "uses": "Used to treat allergies, hives, and other allergic reactions.",
+      "effects": "Can cause drowsiness, headache, and dry mouth."
+    },
+    {
+      "id": 6,
+      "name": "Metformin",
+      "image": "metformin.jpg",
+      "molecularFormula": "C4H11N5",
+      "iupacname": "Metformin",
+      "about": "Metformin is an oral diabetes medicine that helps control blood sugar levels.",
+      "mechanism": "It works by decreasing glucose production in the liver and improving insulin sensitivity.",
+      "uses": "Used to improve blood sugar control in people with type 2 diabetes.",
+      "effects": "May cause gastrointestinal upset, including diarrhea, nausea, and vomiting."
+    },
+    {
+      "id": 7,
+      "name": "Ciprofloxacin",
+      "image": "ciprofloxacin.jpg",
+      "molecularFormula": "C17H18FN3O3",
+      "iupacname": "Ciprofloxacin",
+      "about": "Ciprofloxacin is an antibiotic used to treat a variety of bacterial infections.",
+      "mechanism": "It works by inhibiting bacterial DNA gyrase, thereby preventing replication of the bacteria.",
+      "uses": "Used to treat infections like urinary tract infections, respiratory infections, and skin infections.",
+      "effects": "May cause nausea, diarrhea, dizziness, and increased risk of tendonitis."
+    },
+    {
+      "id": 8,
+      "name": "Clopidogrel",
+      "image": "clopidogrel.jpg",
+      "molecularFormula": "C16H16ClNO2S",
+      "iupacname": "Clopidogrel bisulfate",
+      "about": "Clopidogrel is a blood thinner that prevents platelets in the blood from clumping together.",
+      "mechanism": "It works by inhibiting platelet aggregation, which helps prevent blood clots.",
+      "uses": "Used to prevent strokes, heart attacks, and other heart-related issues.",
+      "effects": "May cause bleeding, bruising, and, rarely, severe allergic reactions."
+    },
+    {
+      "id": 9,
+      "name": "Omeprazole",
+      "image": "omeprazole.jpg",
+      "molecularFormula": "C17H19N3O3S",
+      "iupacname": "Omeprazole",
+      "about": "Omeprazole is a proton pump inhibitor used to treat gastroesophageal reflux disease (GERD).",
+      "mechanism": "It works by reducing the amount of acid your stomach makes.",
+      "uses": "Used to treat heartburn, stomach ulcers, and acid reflux.",
+      "effects": "May cause headache, stomach pain, and nausea."
+    },
+    {
+      "id": 10,
+      "name": "Atorvastatin",
+      "image": "atorvastatin.jpg",
+      "molecularFormula": "C33H35FN2O5",
+      "iupacname": "Atorvastatin calcium",
+      "about": "Atorvastatin is a statin used to lower cholesterol and triglyceride levels.",
+      "mechanism": "It works by blocking an enzyme in the liver that produces cholesterol.",
+      "uses": "Used to lower cholesterol and reduce the risk of heart disease.",
+      "effects": "May cause muscle pain, liver damage, and increased blood sugar levels."
+    }
+  ]
+}
