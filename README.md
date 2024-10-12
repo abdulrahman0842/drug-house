@@ -35,8 +35,7 @@ The app does not rely on a custom backend for its data. Drug information is embe
 3. Get dependencies:
    ```bash
    flutter pub get
-5. Configure the API server URL in your app’s environment.
-6. Run the app:
+4. Run the app:
    ```bash
    flutter run
 
