@@ -29,3 +29,14 @@ The app does not rely on a custom backend for its data. Drug information is embe
 1. Clone the repository:
    ```bash
    git clone https://github.com/abdulrahman0842/drug-house.git
+2. Navigate to the project directory:
+   ```bash
+   cd drug_house
+3. Get dependencies:
+   ```bash
+   flutter pub get
+5. Configure the API server URL in your app’s environment.
+6. Run the app:
+   ```bash
+   flutter run
+
